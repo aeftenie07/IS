@@ -1,3 +1,4 @@
+/* Exercitiul 1 */
 method Fibonacci(n: nat) returns (res: nat)
     requires n >= 0
     ensures res == fib(n)
